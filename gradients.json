@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Midnight Aurora",
+        "colors": ["#643E95", "#020621", "#9370C2", "#2F3161", "#82C8E1", "#5894AE", "#68CEDD", "#3D3078", "#8493BA"]
     }
 ]
